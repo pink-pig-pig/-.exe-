@@ -3,8 +3,8 @@
 {'id': '2', 'name': '3', 'english': 65, 'python': 4, 'c': 1}
 {'id': '1', 'name': '56', 'english': 48, 'python': 65, 'c': 54}
 {'id': '123456', 'name': 'asfdf', 'english': 100, 'python': 55, 'c': 99}
-{'id': '123456', 'name': 'asfdf', 'english': 100, 'python': 55, 'c': 99}
 {'id': '159', 'name': 'opts', 'english': 96, 'python': 69, 'c': 56}
 {'id': '9', 'name': '6', 'english': 456456456, 'python': 121, 'c': 12514}
 {'id': '0000', 'name': 'aaa', 'english': 11, 'python': 11, 'c': 11}
 {'id': '007', 'name': 'hhh', 'english': 22, 'python': 33, 'c': 55}
+{'id': '1', 'name': '1', 'english': 1, 'python': 1, 'c': 1}
